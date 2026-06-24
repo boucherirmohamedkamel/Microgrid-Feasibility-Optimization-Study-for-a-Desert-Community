@@ -1,0 +1,2 @@
+# Microgrid-Feasibility-Optimization-Study-for-a-Desert-Community
+HOMER Pro Optimization Study for a Desert Microgrid Technical and economic feasibility study for the electrification of Sidi-Abdelkader, an isolated Algerian village. Using HOMER Pro and NASA data, a hybrid system (PV/Wind/Grid) was optimized based on local load profiles, wind speeds, and solar resources to find the most reliable, low-cost solution
